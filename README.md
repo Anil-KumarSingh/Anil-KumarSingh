@@ -18,10 +18,10 @@
 ---
 
 ### 📊 GitHub Stats
-![Anil's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Anil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anil-KumarSingh&show_icons=true&theme=radical)
 
 ---
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anil-KumarSingh&theme=radical)
 <img align="right" alt="coding" width="300" src="GIF_LINK_HERE">
